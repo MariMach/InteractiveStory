@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Reorganiser les histoires</string>
+    <string name="addStory_button">Ajouter une histoire</string>
+    <string name="Key_name">Prénom</string>
+    <string name="start_your_adventure">Parcourir les histoires</string>
+    <string name="settings_button">Réglages</string>
+    <string name="Help_button">Aide</string>
+    <string name="Play_Button">Retour à jouer</string>
+    <string name="language_Button">Changer la langue</string>
+    <string name="son_Button">Silencieux</string>
+    <string name="arabic_Button">Arabe</string>
+    <string name="french_Button">Français</string>
+    <string name="english_Button">Anglais</string>
+    <string name="readytoplaytext">Appuyez sur le bouton si vous êtes prêt à jouer, sinon vous pouvez revenir en arrière et profiter à nouveau de l\'histoire.</string>
+    <string name="add">Ajouter</string>
+    <string name="titlestory">Titre de l\'histoire</string>
+    <string name="Help_text">Cette application est destinée aux enfants âgés de 5 à 6 ans atteints d\'autisme et de troubles du développement. Le jeu consiste à observer trois éléments d’une histoire dans l’ordre. Le gamin obtiendra les trois images de l’histoire ordonnées dans le mauvais ordre et il devra les réorganiser en respectant la séquence des événements en glissant-déposant les images.</string>
+    <string name="page0_choice1">Suivant</string>
+    <string name="page1_choice1">Continuer l\'histoire</string>
+    <string name="page2_choice1">tu es presque là</string>
+    <string name="page4_choice1">Fin</string>
+    <string name="play_again_button_text">JOUER</string>
+    <string name="descrip">Ajouter une description</string>
+    <string name="imageurl">Ajouter une image</string>
+    <string name="pagecendrillon1">Il y a fort longtemps vivait une jolie jeune fille qui s’appelait Cendrillon. Cendrillon avait de long cheveux roux, des yeux verts et des taches de rousseur partout sur le nez. Elle était intelligente et gentille, et elle aimait raconter des blagues. Mais elle était très malheureuse. Son père et sa mère étaient morts et Cendrillon vivait avec sa belle-mère et deux belles-sœurs</string>
+    <string name="pagecendrillon2">Les hommes qui passaient à la maison tombaient toujours immédiatement amoureux de Cendrillon et ne remarquaient jamais les belles-sœurs. Ceci exaspérait la belle-mère, alors elle ordonnait à Cendrillon de faire toutes les corvées.</string>
+    <string name="pagecendrillon3">Un jour, alors que Cendrillon était dans le jardin à cueillir des citrouilles,une lettre arriva à la maison. C’était une invitation au bal d’été du roi. La belle-mèreet les belles-sœurs de Cendrillon étaient très impatientes.</string>
+    <string name="pagecendrillon4">C\'est alors qu\'il eut un éclair brillant et une vieille femme apparut dans un coin de la cuisine. « Qui … Qui êtes-vous ? bégaya Cendrillon. — Je suis ta bonne fée, dit la vieille femme. Tu es orpheline et tous les orphelins ont une bonne fée.</string>
+    <string name="pagehansel1">Il y a de nombreuses années, il y avait un bûcheron. Il vivait au plus profond de la forêt avec sa femme. C\'était une femme gentille et douce. Ils ont eu deux enfants: Hansel et Gretel.</string>
+    <string name="pagehansel2">La famille n\'avait pas beaucoup d\'argent, mais leur maison était toujours confortable et chaleureuse et les enfants avaient toujours de la soupe et du pain à manger. Ils n\'ont jamais eu faim. Un an, l\'hiver fut terriblement froid et la mère de Hansel et de Gretel tomba malade et mourut.</string>
+    <string name="pagehansel3">Avec le temps, le bûcheron s\'est marié avec une autre femme, mais elle n\'était pas gentille. Elle était cruelle et égoïste. Elle voulait être riche et elle voulait manger des aliments raffinés comme du rôti de bœuf, de la purée de pommes de terre, des pois, du maïs, des gâteaux au citron et des fruits exotiques des terres ensoleillées.</string>
+    <string name="pagehansel4">La belle-mère était particulièrement cruelle envers Hansel et Gretel car elle pensait que c’était la raison pour laquelle sa famille était si pauvre. Vous autres, vous mangez trop! C\'est de ta faute si nous n\'avons que de la soupe et du pain.</string>
+    <string name="cend_descripsion">"Cendrillon, une douce jeune fille, subit les méchancetés de sa belle-mère et de ses deux horribles filles. Un jour, transformée par sa marraine la bonne fée en princesse éclatante de beauté, elle se rend au bal du prince qui tombe fou amoureux d'elle... "</string>
+    <string name="hansel_desc">Hansel and Gretel or Jeannot and Margot, is a popular tale among those collected by the Brothers Grimm in the first volume of Tales of childhood and home.</string>
+    <string name="addpage1">Ajouter la première page</string>
+    <string name="story_page1_desc">Histoire Partie 1</string>
+    <string name="record_butt">enregistrement</string>
+    <string name="stop_butt">Arrêtez</string>
+    <string name="story_page2_desc">Histoire Partie 2</string>
+    <string name="story_page4_desc">Histoire Partie 4</string>
+    <string name="story_page3_desc">Histoire Partie 3</string>
+    <string name="addpage4">Ajouter la quatrième page</string>
+    <string name="addpage2">Ajouter la deuxième page</string>
+    <string name="addpage3">Ajouter la troisième page</string>
+</resources>

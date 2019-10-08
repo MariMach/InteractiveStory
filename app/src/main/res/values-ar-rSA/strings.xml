@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="addStory_button">أضف قصة</string>
+    <string name="app_name">إعادة ترتيب القصص</string>
+    <string name="Key_name">اسم</string>
+    <string name="start_your_adventure">تصفح القصص</string>
+    <string name="settings_button">الإعدادات</string>
+    <string name="Help_button">مساعدة</string>
+    <string name="Play_Button">العودة إلى اللعب</string>
+    <string name="language_Button">تغيير اللغة</string>
+    <string name="son_Button">إيقاف تشغيل الصوت</string>
+    <string name="arabic_Button">العربية</string>
+    <string name="french_Button">الفرنسية</string>
+    <string name="english_Button">الإنجليزية</string>
+    <string name="readytoplaytext">اضغط على الزر إذا كنت مستعدًا للعب ، وإلا يمكنك العودة والاستمتاع بالقصة مرة أخرى</string>
+    <string name="add">أضف</string>
+    <string name="titlestory">عنوان القصة</string>
+    <string name="Help_text">تم تصميم هذا التطبيق للأطفال في غضون 5-6 سنوات مع مرض التوحد والإعاقة التنموية. تتكون اللعبة من مراقبة ثلاث قطع من القصة بالترتيب ، سيحصل الطفل على الصور الثلاث للقصة مرتبة بترتيب خاطئ وعليه إعادة ترتيبها مع مراعاة تسلسل الأحداث بسحب الصور وإسقاطها.</string>
+    <string name="page0_choice1">التالى</string>
+    <string name="page1_choice1">أكمل القصة</string>
+    <string name="page2_choice1">كدت تصل</string>
+    <string name="page4_choice1">النهاية</string>
+    <string name="play_again_button_text">العب</string>
+    <string name="descrip">اضف وصفا</string>
+    <string name="imageurl">إضافة صورة</string>
+    <string name="pagecendrillon1">منذ زمن طويل عاشت فتاة جميلة تدعى سندريلا. كان سندريلا شعر أحمر طويل ، عيون خضراء والنمش في جميع أنحاء أنفها. كانت ذكية ولطيفة ، وكانت تحب أن تخبر النكات. لكنها كانت غير سعيدة للغاية. توفي والدها ووالدتها وعاشت  سندريلا مع حماتها وشقيقتيها</string>
+    <string name="pagecendrillon2">الرجال الذين مروا في المنزل كانوا دائماً في حب سندريلا ولم يلاحظوا أبداً أخواتهم. أثار هذا غضب الأم ، لذا أمرت سندريلا بالقيام بكل الأعمال.</string>
+    <string name="pagecendrillon3">ذات يوم ، بينما كانت سندريلا في الحديقة تجمع القرع ، وصلت رسالة إلى المنزل. كانت دعوة إلى كرة الملك الصيفية. كانت حمات وأخوات سندريلا ينفد صبرهما.</string>
+    <string name="pagecendrillon4">كان حينها تومض ببراعة وظهرت امرأة عجوز في زاوية من المطبخ. \"من ... من أنت؟ سندريلا متعثرة. \"أنا جنية جيدة\" ، قالت المرأة العجوز. أنت يتيمة  وكل الأيتام لديهم جنية جيدة.</string>
+    <string name="pagehansel1">منذ سنوات عديدة ، كان هناك الحطاب. عاش في عمق الغابة مع زوجته. كانت امرأة لطيفة . كان لديهم طفلان: هانسيل وجريتيل.</string>
+    <string name="pagehansel2">لم يكن لدى العائلة الكثير من المال ، لكن منزلهم كان دائمًا دافئًا ودافئًا ، وكان الأطفال دائمًا لديهم الحساء والخبز لتناول الطعام. لم يسبق لهم الجوع. سنة واحدة ، كان هناك شتاء شديد البرودة ، وأصبحت والدة هانسيل وجريتيل مريضة وماتت.</string>
+    <string name="pagehansel3">في الوقت المناسب تزوج الحطاب من امرأة أخرى ، لكنها لم تكن لطيفة . كانت قاسية وأنانية. أرادت أن تكون غنية ، وأرادت تناول الأطعمة الفاخرة مثل لحم البقر المشوي ، والبطاطس المهروسة ، والبازلاء ، والذرة ، وكعك الليمون ، والفواكه الغريبة من الأراضي المشمسة.</string>
+    <string name="pagehansel4">كانت زوجة الأب قاسية بشكل خاص على هانسيل وجريتيل لأنها اعتقدت أنها السبب في أن الأسرة فقيرة للغاية. أنتم أطفال يأكلون أكثر من اللازم! إنه خطأك أن لدينا فقط الحساء والخبز.</string>
+    <string name="cend_descripsion">سندريلا ، فتاة حلوة ، عانت من حمات والدتها وابنتيها الرهيبتين. في يوم من الأيام ، تحولت من قبل والدتها الأميرة الجميلة الخيالية الممتلئة بالجمال ، ذهبت إلى كرة الأمير الذي يقع في حبها بجنون ...</string>
+    <string name="hansel_desc">هانسيل وجريتيل أو جانوت ومارجوت ، هي قصة شعبية بين تلك التي جمعها الأخوان جريم في المجلد الأول من حكايات الطفولة والمنزل.</string>
+    <string name="addpage1">أضف الصفحة الأولى</string>
+    <string name="story_page1_desc">الجزء 1</string>
+    <string name="stop_butt">توقف</string>
+    <string name="record_butt">سجل</string>
+    <string name="story_page2_desc">الجزء 2</string>
+    <string name="story_page3_desc">الجزء 3</string>
+    <string name="story_page4_desc">الجزء 4</string>
+    <string name="addpage4">أضف الصفحة الرابعة</string>
+    <string name="addpage2">أضف الصفحة الثانية</string>
+    <string name="addpage3">أضف الصفحة الثالثة</string>
+</resources>

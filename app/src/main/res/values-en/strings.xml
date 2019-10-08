@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Reorder Stories</string>
+    <string name="addStory_button">Add a Story</string>
+    <string name="Key_name">name</string>
+    <string name="start_your_adventure">Browse Stories</string>
+    <string name="settings_button">Settings</string>
+    <string name="Help_button">Help</string>
+    <string name="Play_Button">Return to play</string>
+    <string name="language_Button">Change the language</string>
+    <string name="son_Button">Turn off the sound</string>
+    <string name="arabic_Button">Arabic</string>
+    <string name="french_Button">French</string>
+    <string name="english_Button">English</string>
+    <string name="readytoplaytext">Press the Button if you are ready to play, else you can go back and enjoy the story again</string>
+    <string name="add">Add</string>
+    <string name="titlestory">Story Title</string>
+    <string name="Help_text">This application is designated for children within 5–6 years with autism and developmental disabilities. The game consists of observing three pieces of a story in order, The kid will get the three images of the story ordered in the wrong order and he has to rearrange it respecting the sequence of events by dragging and dropping the images.</string>
+    <string name="page0_choice1">Next</string>
+    <string name="page1_choice1">Continue the story</string>
+    <string name="page2_choice1">You are almost there</string>
+    <string name="page4_choice1">The End</string>
+    <string name="play_again_button_text">PLAY</string>
+    <string name="pagehansel1">Many years ago, there was a woodcutter. He lived deep in the forest with his wife. She was a kind and gentle woman. They had two children: Hansel and Gretel.</string>
+    <string name="pagehansel2">The family did not have much money, but their home was always cozy and warm, and the children always had soup and bread to eat. They never went hungry. One year, there was a terribly cold winter, and Hansel and Gretel\'s mother became ill and died.</string>
+    <string name="pagehansel3">In time the woodcutter married another woman, but she was not kind and gentle. She was cruel and selfish. She wanted to be rich, and she wanted to eat fancy foods like roast beef, mashed potatoes, peas, corn, lemon cakes, and exotic fruits from sunny lands.</string>
+    <string name="pagehansel4">The stepmother was especially cruel to Hansel and Gretel because she believed they were the reason the family was so poor. You children eat too much! It\'s your fault that we only have soup and bread.</string>
+    <string name="imageurl">Add Image</string>
+    <string name="descrip">Add Description</string>
+    <string name="pagecendrillon1">A long time ago lived a pretty girl named Cinderella. Cinderella had long red hair, green eyes and freckles all over her nose. She was smart and kind, and she liked to tell jokes. But she was very unhappy. Her father and mother were dead and Cinderella lived with her mother-in-law and two sisters-in-law</string>
+    <string name="pagecendrillon2">The men who passed by the house always fell in love with Cinderella and never noticed the sisters-in-law. This exasperated the mother-in-law, so she ordered Cinderella to do all the chores.</string>
+    <string name="pagecendrillon3">One day, while Cinderella was in the garden gathering pumpkins, a letter arrived at the house. It was an invitation to the King\'s summer ball. The mother-in-law and Cinderella\'s sisters-in-law were very impatient.</string>
+    <string name="pagecendrillon4">It was then that he flashed brilliantly and an old woman appeared in a corner of the kitchen. \"Who ... Who are you? Cinderella stuttered. \"I am your good fairy,\" said the old woman. You are an orphan and all orphans have a good fairy.</string>
+    <string name="cend_descripsion">Cinderella, a sweet girl, suffered the mischief of her mother-in-law and her two horrible girls. One day, transformed by her godmother the good fairy princess bursting with beauty, she goes to the ball of the prince who falls madly in love with her ...</string>
+    <string name="hansel_desc">Hansel et Gretel ou Jeannot et Margot, is the conte populaire on the rassemble, on the story of the brothers. Grimm, premier volume des Contes de l\'enfance et du foyer.</string>
+    <string name="addpage1">Add the first Page</string>
+    <string name="story_page1_desc">Story Part 1</string>
+    <string name="record_butt">Record</string>
+    <string name="stop_butt">Stop</string>
+    <string name="story_page2_desc">Story Part 2</string>
+    <string name="addpage4">Add the Fourth Page</string>
+    <string name="addpage3">Add the third Page</string>
+    <string name="story_page4_desc">Story Part 4</string>
+    <string name="story_page3_desc">Story Part 3</string>
+    <string name="addpage2">Add the second Page</string>
+</resources>
